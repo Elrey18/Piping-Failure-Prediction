@@ -210,7 +210,7 @@ Jupyter Notebook
 
 # Author
 
-**Aminu Aliyu**
+**Muhammad Aminu Aliyu**
 
 Petroleum Engineer | Data Analyst | Machine Learning Enthusiast
 
