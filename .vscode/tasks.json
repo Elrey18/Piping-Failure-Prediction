@@ -1,0 +1,12 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Publish updated notebook",
+			"type": "shell",
+			"command": "git add \"Piping failure Prediction project.ipynb\" && git commit -m \"Sync notebook with latest version\" && git push",
+			"isBackground": false,
+			"problemMatcher": []
+		}
+	]
+}
