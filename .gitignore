@@ -1,6 +1,29 @@
-.ipynb_checkpoints/
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
 *.pyo
-*.log
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Generated reports
+reports/*.pdf
+
+# OS files
 .DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Large or temporary files
+*.log
